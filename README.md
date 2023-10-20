@@ -1,3 +1,3 @@
-# Assignment-2-DS
+# Search Algorithms
 
 Performed Linear and Binary Search in C++
